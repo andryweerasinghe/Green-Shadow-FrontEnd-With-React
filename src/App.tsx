@@ -13,7 +13,7 @@ import {Logs} from "./pages/Logs.tsx";
 
 function App() {
 
-    const routers = createBrowserRouter([
+    const routers = createBrowserRouter([   //creating routers
         {
             path: '/',
             element: <RootLayout/>,
