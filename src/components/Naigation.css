@@ -5,3 +5,18 @@
     width: 90px;
     height: 90px;
 }
+#logo-navbar {
+    width: 80px;
+    height: 80px;
+    background: url("src/assets/icons/logo.png") center no-repeat;
+    background-size: 72px 72px;
+}
+#nav-bar {
+    border-radius: 28px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+    background-color: rgba(237, 218, 184, 0.74);
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
