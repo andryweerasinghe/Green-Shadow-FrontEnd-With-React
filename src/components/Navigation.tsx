@@ -1,5 +1,5 @@
 import {Link, useLocation, useNavigate} from "react-router";
-import "./Naigation.css";
+import "./Navigation.css";
 
 export const Navigation = () => {
 

@@ -1,5 +1,5 @@
-import './Crop.css'
-import './formControll.css'
+import '../../../Green-Shadow-With-React/src/pages/Crop.css'
+import '../../../Green-Shadow-With-React/src/pages/formControll.css'
 
 export const Crop = () => {
     return (
